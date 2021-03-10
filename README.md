@@ -20,5 +20,11 @@ Repositório responsável pelo do Curso Javascript Completo com 6 projetos reais
 </p>
 </details>
 
+<details>
+<summary>Módulo 01: Projeto Calculadora com Javascript</summary>
+<p>
+[Calculator](https://github.com/ocarlosbarros/calculator)
+</p>
+</details>
 
 
