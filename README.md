@@ -1,7 +1,5 @@
 # :books: Javascript Curso Completo com 6 Projetos Reais 
 
-------------------------------------------------
-
 Repositório responsável pelo do Curso Javascript Completo com 6 projetos reais ministrado pelos desenvolvedores João Rangel e Glaucio Daniel da Hcode Treinamentos.
 
 ## :pencil2: Ementa do Curso
